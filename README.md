@@ -1,7 +1,7 @@
 <h1 align="center"> Q Blockchain </h1>
 
 
-## İhtiyacımız olanlar ve notlar:
+## İhtiyacımız olanlar ve notlar;
 
 * Bana sorularınız ve yardım ihtiyacınız için: [Telegram](https://t.me/+H_ecre-MCCg4ZTA0)
 * Q Blockchain'i ödülsüz testnetinden beri takip ediyorum
